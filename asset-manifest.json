@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sie-android/Paginas/scr_supervisor/static/css/main.ba7b67da.chunk.css",
+    "main.js": "/sie-android/Paginas/scr_supervisor/static/js/main.7d2a22b5.chunk.js",
+    "main.js.map": "/sie-android/Paginas/scr_supervisor/static/js/main.7d2a22b5.chunk.js.map",
+    "runtime-main.js": "/sie-android/Paginas/scr_supervisor/static/js/runtime-main.f0f732eb.js",
+    "runtime-main.js.map": "/sie-android/Paginas/scr_supervisor/static/js/runtime-main.f0f732eb.js.map",
+    "static/js/2.03317f74.chunk.js": "/sie-android/Paginas/scr_supervisor/static/js/2.03317f74.chunk.js",
+    "static/js/2.03317f74.chunk.js.map": "/sie-android/Paginas/scr_supervisor/static/js/2.03317f74.chunk.js.map",
+    "static/js/3.2f5ecd48.chunk.js": "/sie-android/Paginas/scr_supervisor/static/js/3.2f5ecd48.chunk.js",
+    "static/js/3.2f5ecd48.chunk.js.map": "/sie-android/Paginas/scr_supervisor/static/js/3.2f5ecd48.chunk.js.map",
+    "index.html": "/sie-android/Paginas/scr_supervisor/index.html",
+    "service-worker.js": "/sie-android/Paginas/scr_supervisor/service-worker.js",
+    "service-worker.js.map": "/sie-android/Paginas/scr_supervisor/service-worker.js.map",
+    "static/css/main.ba7b67da.chunk.css.map": "/sie-android/Paginas/scr_supervisor/static/css/main.ba7b67da.chunk.css.map",
+    "static/js/2.03317f74.chunk.js.LICENSE.txt": "/sie-android/Paginas/scr_supervisor/static/js/2.03317f74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0f732eb.js",
+    "static/js/2.03317f74.chunk.js",
+    "static/css/main.ba7b67da.chunk.css",
+    "static/js/main.7d2a22b5.chunk.js"
+  ]
+}

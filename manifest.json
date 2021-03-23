@@ -1,0 +1,26 @@
+{
+  "short_name": "Nota Venta Digital Supervisor",
+  "name": "Nota de Venta Digital - Supervisor",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/sie-android/Paginas/scr_supervisor/",
+  "display": "standalone",
+  "theme_color": "#E12626",
+  "background_color": "#E12626",
+  "scope": "/sie-android/Paginas/scr_supervisor/"
+}
