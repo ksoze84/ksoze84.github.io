@@ -18,9 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/sie-android/Paginas/scr_supervisor/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#E12626",
   "background_color": "#E12626",
-  "scope": "/sie-android/Paginas/scr_supervisor/"
+  "scope": "."
 }
