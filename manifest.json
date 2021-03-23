@@ -1,26 +1,25 @@
 {
-  "short_name": "Nota Venta Digital Supervisor",
-  "name": "Nota de Venta Digital - Supervisor",
+  "short_name": "Ficha Repuesto",
+  "name": "Ficha Técnica Repuesto - ServiBus",
   "icons": [
     {
-      "src": "favicon.png",
-      "sizes": "16x16",
+      "src": "40.png",
+      "sizes": "40x40",
       "type": "image/png"
     },
     {
-      "src": "logo192.png",
+      "src": "192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#E12626",
-  "background_color": "#E12626",
-  "scope": "."
+  "theme_color": "#00d1b2",
+  "background_color": "#00d1b2"
 }
